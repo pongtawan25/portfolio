@@ -1,0 +1,40 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Kanit", sans-serif;
+}
+
+h1 {
+  font-weight: 400;
+}
+
+p {
+  font-weight: 300;
+}
+
+.header {
+  background-image: url(images/coding.jpg);
+  background-position: top;
+  background-size: 100%;
+  color: whitesmoke;
+  /* background-color: whitesmoke; */
+}
+
+.header2 {
+  padding-top: 15%;
+  padding-bottom: 25%;
+}
+
+.aboutme {
+  background-color: whitesmoke;
+}
+
+.aboutmeImg {
+  max-width: 100%;
+}
+
+.experience {
+  background-color: whitesmoke;
+}
