@@ -1,5 +1,5 @@
 function switchTo() {
   setTimeout(() => {
-    window.location.href = "/landing.html";
+    window.location.href = "/portfolio/landing";
   }, 400);
 }
