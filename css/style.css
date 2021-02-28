@@ -1,0 +1,43 @@
+.header {
+  height: 100vh;
+  background-image: url("../img/sunset.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.portfolio {
+  background-color: white;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-weight: 700;
+}
+
+.skill {
+  height: 60vh;
+  background-color: white;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 30px;
+}
+
+.footer {
+  height: 8vh;
+  background-color: #141414;
+  font-family: "Open Sans Condensed", sans-serif;
+  color: white;
+  padding-top: 20px;
+}
+
+.aboutpage {
+  background-image: url("../img/whitebackgroud.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.about {
+  height: 50%;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.content .font-theme {
+  font-family: "Open Sans Condensed", sans-serif;
+}
